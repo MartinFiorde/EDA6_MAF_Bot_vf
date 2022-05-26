@@ -21,8 +21,7 @@
 <br/>
 <p align="left"> 
 Como adelante, el presente bot fue mi segundo intento, resultado de una revisión completa desde cero sobre la primer versión. Unicamente a los findes de dejar documentado todo el proceso. </p>
-  <p align="left"> A quien le interese puede consultar el primer intento en el siguiente repositorio de GitHub: 
-</p> <a href="https://github.com/MartinFiorde/EDA6_MAF_Bot_alpha" target="_blank"><p align="left"> EDA6_MAF_Bot_alpha</a></p>
+<p> align="left"> A quien le interese puede consultar el primer intento en el siguiente repositorio de GitHub: <a href="https://github.com/MartinFiorde/EDA6_MAF_Bot_alpha" target="_blank">EDA6_MAF_Bot_alpha</a></p>
 <br/>
 <p align="left"> 
 Desde ya agracezco enormemente a EvenBrite por la posibilidad de practicar y mejorar mis habilidades de codeo con esta experiencia, a mi hermano Agustin que a pesar de estar a full con sus trabajos me dio una tremenda mano para resolver cuestiones de inicialización con las dependencias de WebSocket y Junit, y a todos los compañeros que lograron otros robots igual de increibles para hacerlos competir!
