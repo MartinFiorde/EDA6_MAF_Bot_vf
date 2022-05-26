@@ -3,7 +3,7 @@
 
 <br/>
 <p align="left"> 
-EDIT: Adjunto los resultados del torneo final, del cual mi bot consiguio el primer puesto en la tabla!!!
+EDIT: Adjunto los resultados del torneo final, en el cual mi bot logro el primer puesto!!!
 <a href="https://github.com/MartinFiorde/EDA6_MAF_Bot_vf/blob/main/Scoreboard%20EDA6%20-%20Winner%20Mart%C3%ADn%20Fiordelisi.png" target="_blank"><img src="https://github.com/MartinFiorde/EDA6_MAF_Bot_vf/blob/main/Scoreboard%20EDA6%20-%20Winner%20Mart%C3%ADn%20Fiordelisi.png?raw=true" alt="spring" width="100%" height="100%"/></a>
 
 </p>
