@@ -32,11 +32,7 @@ public class Reader {
         newBoard = newBoard.replaceFirst("E", "F");
         newBoard = newBoard.replaceFirst("E", "G");
         newBoard = newBoard.replaceFirst("E", "H");
-
-//        if (side.equals("S")) {                        // IF only if I'm playing against myself, to avoid duplicate boards
-//        showBoardOnConsole(newBoard, side);            // SOUT - DISPLAY IN CONSOLE TO SEE THE DASHBOARD ANALYZED BY THE BOT
-//        }
-
+        showBoardOnConsole(newBoard, side);            // SOUT - DISPLAY IN CONSOLE TO SEE THE DASHBOARD ANALYZED BY THE BOT
         return newBoard;
     }
 
