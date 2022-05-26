@@ -6,7 +6,7 @@
 EDIT: Adjunto los resultados del torneo final, en el cual mi bot logro el primer puesto!!!
 </p>
 <a href="https://github.com/MartinFiorde/EDA6_MAF_Bot_vf/blob/main/Scoreboard%20EDA6%20-%20Winner%20Mart%C3%ADn%20Fiordelisi.png" target="_blank"><img src="https://github.com/MartinFiorde/EDA6_MAF_Bot_vf/blob/main/Scoreboard%20EDA6%20-%20Winner%20Mart%C3%ADn%20Fiordelisi.png?raw=true" alt="spring" width="100%" height="100%"/></a>
-
+<br/>
 <p align="left"> Bienvenido al que lea! Les presento el resultado de mi primer desafio real fuera de un ambiente de aprendizaje. Fue toda una experiencia con varios contratiempos, e incluso un reinicio completo del proyecto desde cero una semana antes de la entrega! Pero mas alla de las complicaciones me quedo con esa sensación de exito cada vez que pude resolver los problemas que iba encontrando, hasta conseguir armar una inteligencia artificial de la cual estoy muy orgulloso!</p>
 
 <h3 align="center">IA - Descripción de la estrategia aplicada</h3>
