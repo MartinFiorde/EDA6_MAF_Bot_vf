@@ -1,5 +1,13 @@
 <h1 align="center">EDA6 2022 - QUORIDOR</h1>
 <h2 align="center">JAVA BOT  by <a href="https://www.linkedin.com/in/martin-fiordelisi-b42184226/" target="_blank">Martín Fiordelisi</a></h2>
+
+<br/>
+<p align="left"> 
+EDIT: Adjunto los resultados del torneo final, del cual mi bot consiguio el primer puesto en la tabla!!!
+<a href="" target="_blank"><img src="?raw=true" alt="spring" width="100%" height="100%"/></a>
+
+</p>
+
 <p align="left"> Bienvenido al que lea! Les presento el resultado de mi primer desafio real fuera de un ambiente de aprendizaje. Fue toda una experiencia con varios contratiempos, e incluso un reinicio completo del proyecto desde cero una semana antes de la entrega! Pero mas alla de las complicaciones me quedo con esa sensación de exito cada vez que pude resolver los problemas que iba encontrando, hasta conseguir armar una inteligencia artificial de la cual estoy muy orgulloso!</p>
 
 <h3 align="center">IA - Descripción de la estrategia aplicada</h3>
@@ -27,4 +35,12 @@ Como adelanté, el presente bot fue mi segundo intento, resultado de una revisi�
 Desde ya agracezco enormemente a EvenBrite por la posibilidad de practicar y mejorar mis habilidades de codeo con esta experiencia, a mi hermano Agustín que a pesar de estar full con su trabajo me pudo dar una mano para resolver la inicialización del WebSocket y Junit, y a todos los compañeros que lograron otros robots igual de increibles para esta competencia!
 </p>
 <br/>
+<p align="left"> 
+EDIT: Adjunto las posiciones del torneo final, del cual mi bot consiguio el primer puesto!!! 
+</p>
+<br/>
 <h3 align="center">Muchas gracias por visitar el proyecto! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px" style="max-width:100%;"></h3>
+
+<p align="left"> 
+Adjunto las posiciones del torneo final, del cual mi
+</p>
