@@ -54,7 +54,7 @@ public class Finder {
     // if enemy is in row 1, cover
     public DataMessageDTO tryDefendBase(Board board) {
         for (Pawn aux : board.getEnemyPawns()) {
-            if (aux.getFromx() >= 8 && board.getNumberOfWalls()>0) {
+            if (aux.getFromx() >= 2 && board.getNumberOfWalls() > 0) {
                 Wall wall = tryToPutWall(board, aux);
                 if (wall != null) {
                     return addWallIntoDataMsj(wall);
