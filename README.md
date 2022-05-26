@@ -20,7 +20,7 @@
 </p>
 <br/>
 <p align="left"> 
-Como adelante, el presente bot fue mi segundo intento, resultado de una revisión completa desde cero sobre la primer versión. Unicamente a los findes de dejar documentado todo el proceso. 
+Como adelanté, el presente bot fue mi segundo intento, resultado de una revisión completa desde cero sobre la primer versión. Unicamente a los findes de dejar documentado todo el proceso. 
 </p>
 <p align="left">  
 A quien le interese puede consultar el primer intento en el siguiente repositorio de GitHub: <a href="https://github.com/MartinFiorde/EDA6_MAF_Bot_alpha" target="_blank">EDA6_MAF_Bot_alpha</a>
