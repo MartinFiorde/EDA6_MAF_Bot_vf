@@ -1,5 +1,5 @@
 <h1 align="center">EDA6 2022 - QUORIDOR</h1>
-<h2 align="center">JAVA BOT made by <a href="https://www.linkedin.com/in/martin-fiordelisi-b42184226/" target="_blank">Martín Fiordelisi</a></h2>
+<h2 align="center">JAVA BOT  by <a href="https://www.linkedin.com/in/martin-fiordelisi-b42184226/" target="_blank">Martín Fiordelisi</a></h2>
 <p align="left"> Bienvenido al que lea! Les presento el resultado de mi primer desafio real fuera de un ambiente de aprendizaje. Fue toda una experiencia con varios contratiempos, e incluso un reinicio completo del proyecto desde cero una semana antes de la entrega! Pero mas alla de las complicaciones me quedo con esa sensación de exito cada vez que pude resolver los problemas que iba encontrando, hasta conseguir armar una inteligencia artificial de la cual estoy muy orgulloso!</p>
 
 <h3 align="center">IA - Descripción de la estrategia aplicada</h3>
