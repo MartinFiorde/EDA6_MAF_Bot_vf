@@ -12,7 +12,7 @@ public final class Connection {
     private WebSocketClient clientEndPoint;
     private String url;
     // USE PERSONAL TOKEN DURING TOURNAMENTS
-    private final String token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjoiTUFGIn0.9xcmdu0KvKUzLVfGhm-nxfv9Pri4_yejbXQLPdXyOOQ";
+    private final String token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjoiZmlvcmRlXzkwQGhvdG1haWwuY29tIn0.bB8WDG5ngyCRlpXS86MGLXNdb8TFUTHfahlmCLQSUMw";
     private final String root = "wss://4yyity02md.execute-api.us-east-1.amazonaws.com/ws?token=";
 
     public Connection() {
@@ -47,11 +47,11 @@ public final class Connection {
 
                     // DISABLE FUNCTION DURING TOURNAMENTS
                     // Get Challenge --> Accept
-                    if (msjObj.getEvent().equals(Event.CHALLENGE.getString()) /*&& msj.contains("MAF")*/) {
-                        answer = util.acceptChallenge(msjObj);
-                        System.out.println(util.JSONToObject(answer).toString());
-                        clientEndPoint.sendMessage(answer);
-                    }
+//                    if (msjObj.getEvent().equals(Event.CHALLENGE.getString()) /*&& msj.contains("MAF")*/) {
+//                        answer = util.acceptChallenge(msjObj);
+//                        System.out.println(util.JSONToObject(answer).toString());
+//                        clientEndPoint.sendMessage(answer);
+//                    }
 
                     // Get Your_Turn --> Answer Next Move
                     if (msj.contains("event") && msj.contains("your_turn")) {
