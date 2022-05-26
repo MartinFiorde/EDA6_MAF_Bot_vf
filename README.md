@@ -24,7 +24,7 @@ Como adelanté, el presente bot fue mi segundo intento, resultado de una revisi�
 </p>
 <br/>
 <p align="left"> 
-Desde ya agracezco enormemente a EvenBrite por la posibilidad de practicar y mejorar mis habilidades de codeo con esta experiencia, a mi hermano Agustin que a pesar de estar a full con su trabajo me pudo dar una mano para resolver la inicialización del WebSocket y Junit, y a todos los compañeros que lograron otros robots igual de increibles para que compitan en este torneo!
+Desde ya agracezco enormemente a EvenBrite por la posibilidad de practicar y mejorar mis habilidades de codeo con esta experiencia, a mi hermano Agustín que a pesar de estar full con su trabajo me pudo dar una mano para resolver la inicialización del WebSocket y Junit, y a todos los compañeros que lograron otros robots igual de increibles para esta competencia!
 </p>
 <br/>
 <h3 align="center">Muchas gracias por visitar el proyecto! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px" style="max-width:100%;"></h3>
