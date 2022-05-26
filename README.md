@@ -20,10 +20,7 @@
 </p>
 <br/>
 <p align="left"> 
-Como adelanté, el presente bot fue mi segundo intento, resultado de una revisión completa desde cero sobre la primer versión. Unicamente a los findes de dejar documentado todo el proceso. 
-</p>
-<p align="left">  
-A quien le interese puede consultar el primer intento en el siguiente repositorio de GitHub: <a href="https://github.com/MartinFiorde/EDA6_MAF_Bot_alpha" target="_blank">EDA6_MAF_Bot_alpha</a>
+Como adelanté, el presente bot fue mi segundo intento, resultado de una revisión completa desde cero sobre la primer versión. Unicamente a los findes de dejar documentado todo el proceso aquí, dejo link al repositorio del primer intento a continuación: <a href="https://github.com/MartinFiorde/EDA6_MAF_Bot_alpha" target="_blank">EDA6_MAF_Bot_alpha</a>
 </p>
 <br/>
 <p align="left"> 
