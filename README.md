@@ -24,11 +24,11 @@ EDIT: Adjunto los resultados del torneo final, en el cual mi bot logro el primer
 4- Finalmente, una vez que la IA ya definió cual va a ser la accion de respuesta, incorpora los datos del objeto "Pawn" o "Wall" segun corresponda, dentro de un String que será enviado al WebSocket del servidor para su ejecución en la partida. 
 </p>
 <p align="left"> 
-5- A nivel de testeos, esta fue mi primera experiencia en tener que aplicar pruebas en general (y particularmente en este caso, de tipo unitaras) dentro de mi aplicación, logrando por suerte una covertura del 74% sobre el total de  metodos testeables dentro de mi aplicación (excluye metodos sin parametros, funciones void, y funciones propias de las dependencias autogeneradas de Spring y del WebSocket). 
+5- A nivel de testeos, esta fue mi primera experiencia en tener que aplicar pruebas en general dentro de mi aplicación (particularmente aqui, de tipo unitaras), logrando por suerte una covertura del 74% sobre el total de metodos testeables dentro de mi aplicación (excluye metodos sin parametros, funciones void, y funciones propias de las dependencias autogeneradas de Spring y del WebSocket). 
 </p>
 <br/>
 <p align="left"> 
-Como adelanté, el presente bot fue mi segundo intento, resultado de una revisión completa desde cero sobre la primer versión. Unicamente a los findes de dejar documentado todo el proceso aquí, dejo link al repositorio del primer intento a continuación: <a href="https://github.com/MartinFiorde/EDA6_MAF_Bot_alpha" target="_blank">EDA6_MAF_Bot_alpha</a>
+Como adelanté, el presente bot fue mi segundo intento, resultado de un rearmado desde cero sobre la primer versión. Unicamente a los findes de dejar todo el proceso documentado en un solo lugar, dejo a continuación el link al repositorio de la version alpha: <a href="https://github.com/MartinFiorde/EDA6_MAF_Bot_alpha" target="_blank">EDA6_MAF_Bot_alpha</a>
 </p>
 <br/>
 <p align="left"> 
