@@ -38,7 +38,7 @@ public final class Connection {
 
                     // Print relevant messages in console
                     if (msjObj != null
-                            && !msjObj.getEvent().equals(Event.LIST_USERS.getString())           // Comment to see in console "LIST_USERS"
+                            /*&& !msjObj.getEvent().equals(Event.LIST_USERS.getString())*/           // Comment to see in console "LIST_USERS"
                             /*&& !msjObj.getEvent().equals(Event.CHALLENGE.getString())*/           // Comment to see in console "CHALLENGE"
                             /*&& !msjObj.getEvent().equals(Event.YOUR_TURN.getString())*/           // Comment to see in console "YOUT_TURN"
                             ) {
@@ -47,17 +47,16 @@ public final class Connection {
 
                     // DISABLE FUNCTION DURING TOURNAMENTS
                     // Get Challenge --> Accept
-//                    if (msjObj.getEvent().equals(Event.CHALLENGE.getString()) /*&& msj.contains("MAF")*/) {
-//                        answer = util.acceptChallenge(msjObj);
-//                        System.out.println(util.JSONToObject(answer).toString());
-//                        clientEndPoint.sendMessage(answer);
-//                    }
+                    if (msjObj.getEvent().equals(Event.CHALLENGE.getString())) {
+                        answer = util.acceptChallenge(msjObj);
+                        System.out.println(util.JSONToObject(answer).toString());
+                        clientEndPoint.sendMessage(answer);
+                    }
 
                     // Get Your_Turn --> Answer Next Move
                     if (msj.contains("event") && msj.contains("your_turn")) {
                         answer = util.myTurnAnswer(msjObj);
                         System.out.println(util.JSONToObject(answer).toString());
-                        System.out.println("- - - - - - - - - - - - - - - - - - - - ");
                         clientEndPoint.sendMessage(answer);
                     }
 
